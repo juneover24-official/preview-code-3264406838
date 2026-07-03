@@ -1,6 +1,7 @@
 {
   "qq_number": "3264406838",
   "group_number": "1047137784",
+  "updated_at": "2026-07-03T12:27:31+00:00",
   "skins": [
     {
       "name": "喜欢下雨天",
@@ -8,6 +9,5 @@
       "thumb": "喜欢下雨天.bdi_py_26_light_thumb.png",
       "full": "喜欢下雨天.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-03T12:19:34+00:00"
+  ]
 }
